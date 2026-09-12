@@ -48,5 +48,8 @@ No backend, database, or API keys are needed to start. This setup is local; it d
 <img width="1917" height="1088" alt="screenshot2" src="https://github.com/user-attachments/assets/760d59ce-b095-4e00-ad3e-cd6df602be34" />
 <img width="1917" height="1088" alt="screenshot2" src="https://github.com/user-attachments/assets/ea01f5c8-c645-4752-b852-5303bf3efca0" />
 
+https://drive.google.com/file/d/16JRi2DmB6eIg3Dkj6eYRTtx6-DKn4-ZZ/view?usp=sharing
+
+live link: https://sixseven-nu.vercel.app/
 
 
