@@ -1,44 +1,81 @@
-# Wait Simulator
+# HoldOn 🎯
 
-Local React + TypeScript project powered by Vite. Motion handles animation; Lucide provides icons.
+## Basic Details
 
-## Run
+### Team Name: SixSeven
 
-Requires Node.js 22.12 or newer and pnpm.
+### Team Members
 
-```sh
-pnpm install
-pnpm dev
-```
+* **Team Lead:** Sahad Salim
+* **Member:** Rumi Maqbool
 
-Open the URL printed in your terminal. Vite updates the page when you save a file.
+### Project Description
 
-```sh
-pnpm check    # TypeScript checks
-pnpm build    # Check types and produce dist/
-pnpm preview  # Preview the production build
-pnpm format   # Format source
-```
+**HoldOn** is a useless wait simulator designed to test a user's patience. Choose an inconvenience, watch the progress bar painfully increase and decrease, poke your stress level, and eventually give up when you've had enough.
 
-On this machine, if pnpm is not on PATH, use the included PowerShell wrapper:
+### The Problem (that doesn't exist)
 
-```powershell
-.\dev.ps1
-.\dev.ps1 build
-.\dev.ps1 check
-```
+Waiting is already annoying, but there is currently no proper system to make waiting **even more frustrating**. People simply wait and finish their task like normal humans.
 
-## Start coding
+### The Solution (that nobody asked for)
 
-- `src/App.tsx`: main application component.
-- `src/components/`: reusable UI components.
-- `src/hooks/`: React hooks, such as a waiting timer.
-- `src/lib/`: helpers and scenario data.
-- `src/styles/global.css`: styles and theme.
-- `src/assets/`: imported images and assets.
-- `public/`: files served directly.
-- `vite.config.ts`: development and build configuration.
+HoldOn solves this completely unnecessary problem by simulating an unpredictable waiting experience. The progress bar randomly moves forward and backward while users can poke their stress level until it reaches 100% — forcing them to give up. Users can also surrender at any time using the **Give Up** button.
 
-The earlier static implementation is preserved in `prototype/` for reference. The starter does not use it. `dist/` is now generated build output; edit `src/` instead.
+## Technical Details
 
-No backend, database, or API keys are needed to start. This setup is local; it does not change the published website. Commit the pnpm lockfile when updating dependencies.
+### Technologies/Components Used
+
+For Software:
+
+* [To be added]
+
+For Hardware:
+
+* Not applicable
+
+### Implementation
+
+For Software:
+
+[To be added]
+
+# Installation
+
+[To be added]
+
+# Run
+
+[To be added]
+
+### Project Documentation
+
+For Software:
+
+[To be added]
+
+# Screenshots (Add at least 3)
+
+![Screenshot1](Add screenshot 1 here) *Main screen showing the inconvenience selection*
+
+![Screenshot2](Add screenshot 2 here) *Waiting screen with progress bar and stress level*
+
+![Screenshot3](Add screenshot 3 here) *Stress level reaching 100% and the user giving up*
+
+# Diagrams
+
+![Workflow](Add your workflow diagram here) *Workflow showing the user journey from selecting an inconvenience to waiting, increasing stress, and giving up*
+
+## Team Contributions
+
+* **Sahad Salim:** Lead Developer — Application logic, functionality, progress system, stress mechanics, and overall development.
+* **Rumi Maqbool:** UI/UX Designer — User interface design, user experience, visual layout, and interaction design.
+
+### Project Demo
+
+# Video
+
+[Add your demo video link here] *Demonstrates the complete HoldOn waiting simulation and user interactions*
+
+# Additional Demos
+
+[Add any extra demo materials/links]
