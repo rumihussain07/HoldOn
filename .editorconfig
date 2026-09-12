@@ -1,9 +1,14 @@
 root = true
 
 [*]
-charset = utf-8
+ charset = utf-8
 end_of_line = lf
+<<<<<<< HEAD
  insert_final_newline = true
 indent_style = space
+=======
+insert_final_newline = true
+  indent_style = space
+>>>>>>> a279967 (Added friend's changes)
 indent_size = 2
 trim_trailing_whitespace = true
